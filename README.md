@@ -25,11 +25,3 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-### 📈 Моя статистика:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВашGitHubИмя&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGitHubИмя&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-</p>
