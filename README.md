@@ -6,6 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 ### Обо мне:
+- 🎓 Учусь в **Школе 21**  
 - 🌱 Изучаю **машинное обучение и работу с данными**
 - 📫 Свяжитесь со мной: @MagomedDr
 
